@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BrunoMouraVaz/newProject/issues"
   },
-  "homepage": "https://github.com/BrunoMouraVaz/newProject#readme"
+  "homepage": "https://github.com/BrunoMouraVaz/newProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }
